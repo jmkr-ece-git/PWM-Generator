@@ -7,6 +7,9 @@ Pulse Width Modulation is a technique of controlling the average voltage. It is 
 This implies that PWM has only 2 outputs i.e.,
 - HIGH (LOGIC 1)
 - LOW (LOGIC 0)
-  
+The duty cycle of the rectangular pulse is shown as follows
+
+<picture> <img width="147" alt="image" src="https://github.com/Gurusatwik/PWM-Generator/assets/113631826/23dc928f-69db-4969-8034-d0386e258d60">
+
 ## Applications
 
