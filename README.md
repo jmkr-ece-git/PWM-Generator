@@ -33,3 +33,5 @@ For example, let us assume that our output signal is having a timeperiod of 20ns
 - Encoding in Telecommunication
 - Motor speed controller
 
+## PWM Generator using Verilog-HDL
+PWM generator was designed in Verilog-HDL using `Xilinx Vivado 2022.2`
