@@ -35,8 +35,16 @@ For example, let us assume that our output signal is having a timeperiod of 20ns
 
 ## PWM Generator using Verilog-HDL
 PWM generator was designed in Verilog-HDL using `Xilinx Vivado 2022.2`. There are few changes that are to be done before doing the simulation
+### How to create a project in Xilinx Vivado 2022.2?
 - Step 1: Open Vivado 2022.2 on your system
 
 <picture> <img width="130" alt="Untitled" src="https://github.com/Gurusatwik/PWM-Generator/assets/113631826/fb8d2d62-f2eb-45aa-b5d3-49ce2d021e55">
 
+- Step 2: Create a new project as follows:
+`create project` --> `Next` --> `Project name: ____` --> `Next` --> check `RTL Project` --> `Next` --> click on `Create File` --> a dialog bx pops up prompting you to give the `File name: ______` and click on `Next` --> `Next`
 
+- Step 3: Select an FPGA board
+`Category: General Purpose` --> `Family: Atrix-7` --> `Package: csg324` --> `Speed: -1` --> select `xc7a100tcsg324-1` --> `Next` --> `Finish`
+
+- Step 4: I/O Constraints (optional)
+***can proceed even without giving the constraints just by clicking on Finish/Next as it can be defined in the module later***
