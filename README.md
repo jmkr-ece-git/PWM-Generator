@@ -58,6 +58,6 @@ This will pop up another Dialog box as shown below
 
 <picture> <img width="650" alt="Untitled3" src="https://github.com/Gurusatwik/PWM-Generator/assets/113631826/06303302-008a-4274-9ade-ca23a8faf371">
 
-***Follow the numbers (from 1 - 4)*** //
+***Follow the numbers (from 1 - 4)*** <br />
 The simulation time will be set to 1000ns by default. It can be changed according to our requirements.
 
