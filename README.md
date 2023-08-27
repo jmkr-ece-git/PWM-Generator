@@ -69,3 +69,7 @@ The simulation time will be set to 1000ns by default. It can be changed accordin
 ## Waveform
 <picture> <img width="788" alt="Untitled4" src="https://github.com/Gurusatwik/PWM-Generator/assets/113631826/6b093022-94de-4018-90a3-f66f2a806dcd">
 
+## Useful  links
+- https://www.javatpoint.com/arduino-pwm
+- https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2022-2.html
+- https://www.chipverify.com/verilog/verilog-tutorial
