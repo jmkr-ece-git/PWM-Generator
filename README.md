@@ -63,7 +63,7 @@ The simulation time will be set to 1000ns by default. It can be changed accordin
 
 - Now copy paste the codes `Variable_PWM.v` and `Variable_PWM_tb.v` file one below the other and click on `Run Simulation` --> `Run Behavioral Simulation` to see the output waveform.
 
-## Schmatic
+## Schematic
 <picture> <img width="788" alt="Untitled5" src="https://github.com/Gurusatwik/PWM-Generator/assets/113631826/7b732a40-5c6d-46f3-a31c-8143d6c234ce">
 
 ## Waveform
