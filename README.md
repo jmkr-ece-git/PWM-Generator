@@ -34,4 +34,7 @@ For example, let us assume that our output signal is having a timeperiod of 20ns
 - Motor speed controller
 
 ## PWM Generator using Verilog-HDL
-PWM generator was designed in Verilog-HDL using `Xilinx Vivado 2022.2`
+PWM generator was designed in Verilog-HDL using `Xilinx Vivado 2022.2`. There are few changes that are to be done before doing the simulation
+- ###Step 1: Open Vivado 2022.2 on your system
+<picture> <img width="350" alt="Untitled" src="https://github.com/Gurusatwik/PWM-Generator/assets/113631826/6a1cbdcf-ec15-4bfd-8084-ca52982af4c6">
+
