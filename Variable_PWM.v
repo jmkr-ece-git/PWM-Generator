@@ -1,6 +1,6 @@
 `timescale 1ns/1ns
 module Variable_PWM(
-    input [7:0]Dutycycle,
+	input [7:0]Dutycycle,
 	input clk, 
 	output reg [7:0] counter, 
 	output reg pwmout
