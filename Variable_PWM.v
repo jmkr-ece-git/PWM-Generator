@@ -7,7 +7,7 @@ module Variable_PWM(
   );
   
    
-   
+   // Hej
 
   /*initial begin
       counter = 0; //This can be used if the counter value is not being set to LOGIC 0 initially in the RTL view
